@@ -2,10 +2,10 @@
 
 Ignorar ou evitar o uso de AIs nos dias de hoje não é uma opção então pensei em uma forma simples de usa las sem comprometer o aprendizado criando depedencia ou virando um dev burro,  repositório contém minhas configurações personalizadas para usar o GitHub Copilot em dois modos distintos, pois é um saco toda hora ficar falando a forma que você quer o auxilio da IA, e anexando suas diretrizes não precisa escrever nem ficar copiando toda vez que for usar: 
 
-- 🎓 [Modo Tutor](modo-tutor.md)  
+- 🎓 [Modo Tutor] 
   Ajuda pedagógica sem fornecer respostas prontas. Ideal para aprender.
 
-- 🤖 [Modo Assistente](modo-assistente.md)  
+- 🤖 [Modo Assistente]  
   Foco em produtividade, geração de código e suporte direto.
 ---
 
